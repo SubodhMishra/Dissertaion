@@ -1,2 +1,4 @@
 # Dissertaion
-My masters dissertation
+
+Masters dissertation on Quadcopter Control
+by Subodh Mishra
