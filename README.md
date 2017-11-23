@@ -1,4 +1,4 @@
 # Dissertaion
 
-Masters dissertation on Quadcopter Control
+Report on Quadcopter Control
 by Subodh Mishra
